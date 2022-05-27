@@ -49,6 +49,7 @@ public class maps {
 		
 		System.out.println(person1);
 		System.out.println(person2);
+		System.out.println(person234);
 
 	}
 
